@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Pranjul Gupta</h1>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="310"/>
    
-- ✒️ I am a 3rd year student of **B.tech(CSE)**
+- ✒️ I am a 4th year student of **B.tech(CSE)**
 - 📌Currently Learning new skills and coding and development Languages.
-- 🔖 Interested in C++ and Data analysis.
+- 🔖 Interested in C++ and Web Dev.
 - 📫 How to reach me **gupta.pranju5@gmail.com**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjul2001&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
